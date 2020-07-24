@@ -5,3 +5,5 @@ This theme is based off of theacodes [Witch Hazel](https://github.com/theacodes/
   - Added many TextMate tokenColorCustomizations for readability. 
   
 ---
+
+![Preview](./preview.png)
