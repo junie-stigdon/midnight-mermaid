@@ -1,0 +1,21 @@
+{
+    "name": "midnight-mermaid",
+    "displayName": "Midnight Mermaid",
+    "description": "Dark theme with pastel/light TextMate colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Mermaid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Mermaid-color-theme.json"
+            }
+        ]
+    }
+}
