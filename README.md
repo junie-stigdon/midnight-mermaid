@@ -2,6 +2,6 @@
 
 This theme is based off of theacodes [Witch Hazel](https://github.com/theacodes/witchhazel) with changes made to read JavaScript easier.
   - The workbench is darker.
-  - Added many TextMatw tokenColorCustomizations for readability. 
+  - Added many TextMate tokenColorCustomizations for readability. 
   
 ---
