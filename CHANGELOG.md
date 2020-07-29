@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1]
 
 - Line Highlight Color: darker
+
+## [1.0.2]
+
+- Comments Color: darker
