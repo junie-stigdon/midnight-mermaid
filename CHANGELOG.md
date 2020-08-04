@@ -15,3 +15,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### [1.0.2]
 
 - Comments Color: darker
+
+### [1.0.3]
+
+- Entity and Support Types changed to a darker blue
+- Helps TypeScript readability

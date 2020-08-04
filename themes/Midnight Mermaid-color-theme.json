@@ -261,6 +261,16 @@
 			}
 		},
 		{
+			"scope": [
+				"entity.name.type",
+				"support.type.primitive",
+			],
+			"settings": {
+				"foreground": "#5cacac",
+				"fontStyle": "italic",
+			},
+		},
+		{
 			"scope": "meta.object-literal.key",
 			"settings": {
 				"foreground": "#FFDDF7",
