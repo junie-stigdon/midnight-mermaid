@@ -8,7 +8,7 @@ This theme is based off of theacodes [Witch Hazel](https://github.com/theacodes/
 ### Installation
 
 - Dowload this repo
-- import it to your `.vscode/extentions/` folder
+- Import it to your `.vscode/extentions/` folder
 - Open VS Code
 - In Settings>Color Theme, choose Midnight Mermaid
 
