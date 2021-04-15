@@ -23,6 +23,8 @@
 		"editorGroup.border": "#464258",
 		"editorGroupHeader.noTabsBackground": "#3c374d",
 		"editorGroupHeader.tabsBackground": "#291f3a",
+		"editorIndentGuide.activeBackground": "#ffdfdf",
+		"editorIndentGuide.background": "#947c94",
 		"editorLink.activeForeground": "#c990a5",
 		"editorSuggestWidget.background": "#3c374d",
 		"editorSuggestWidget.border": "#48425c",
