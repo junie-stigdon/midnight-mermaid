@@ -20,3 +20,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Entity and Support Types changed to a darker blue
 - Helps TypeScript readability
+
+### [1.0.4]
+
+- Indent Guide: lighter color
+- Indent Guide: active color
