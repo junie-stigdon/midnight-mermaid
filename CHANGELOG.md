@@ -25,3 +25,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Indent Guide: lighter color
 - Indent Guide: active color
+
+### [1.0.5]
+
+- Template Expression: now distinct from regular strings
+- Updated preview

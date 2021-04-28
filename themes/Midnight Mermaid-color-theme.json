@@ -73,7 +73,6 @@
 		"titleBar.activeForeground": "#f8f8f2",
 		"titleBar.inactiveBackground": "#3a3553",
 		"titleBar.inactiveForeground": "#b9b9b9",
-
 	},
 	"tokenColors": [
 		{
@@ -173,6 +172,12 @@
 			"settings": {
 				"foreground": "#FFF352",
 				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "punctuation.definition.template-expression",
+			"settings": {
+				"foreground": "#e6d9ff"
 			}
 		},
 		{
